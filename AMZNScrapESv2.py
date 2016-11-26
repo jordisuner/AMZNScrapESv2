@@ -57,7 +57,8 @@ def ReadAsin():
                 'B00GHMKTGA',
                 'B01GOW4R10',
                 'B01FK1UCHE',
-                'B00GHMKZ5A', ]
+                'B00GHMKZ5A',
+                'B00HN2BXUY', ]
     extracted_data = []
     for i in AsinList:
         url = "http://www.amazon.es/dp/" + i
